@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "616038101343",
+    "project_id": "appregistrobd",
+    "storage_bucket": "appregistrobd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616038101343:android:536c1312232046f80146ea",
+        "android_client_info": {
+          "package_name": "com.example.arbolv1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Ul4MuKNuAN6padPv69TqsoX3oZlsiRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

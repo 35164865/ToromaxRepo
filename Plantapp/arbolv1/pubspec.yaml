@@ -1,0 +1,48 @@
+name: arbolv1
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  flutter_local_notifications: ^19.2.0
+
+  #deoendecias de firestone
+  firebase_core: ^3.13.0
+  cloud_firestore: ^5.6.6
+  #dependencia de fotos
+  image_picker: ^1.1.2
+  firebase_storage: ^12.4.5
+  path: ^1.9.1
+
+  #dependencias de notificaciones
+  timezone: ^0.10.0
+
+
+
+
+  # Ubicación
+  geolocator: ^10.1.0
+  permission_handler: ^11.0.1
+  google_maps_flutter: ^2.2.3
+
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^5.0.0
+
+flutter:
+
+  uses-material-design: true
+
+ 
